@@ -1,4 +1,4 @@
-#guessinggame.ig
+# guessinggame.ig
 
 Number of lines in guessinggame.ig is 28
 
